@@ -1,5 +1,2 @@
-print("Hello World")
+from tkinter import *
 
-print("Mo")
-
-#No
